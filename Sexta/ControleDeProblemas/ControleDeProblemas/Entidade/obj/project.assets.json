@@ -3711,11 +3711,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Documents\\Exercicios-1\\ControleDeProblemas\\ControleDeProblemas\\Entidade\\Entidade.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\Logatti\\Sexta\\ControleDeProblemas\\ControleDeProblemas\\Entidade\\Entidade.csproj",
       "projectName": "Entidade",
-      "projectPath": "C:\\Users\\aluno\\Documents\\Exercicios-1\\ControleDeProblemas\\ControleDeProblemas\\Entidade\\Entidade.csproj",
+      "projectPath": "C:\\Users\\aluno\\Documents\\Logatti\\Sexta\\ControleDeProblemas\\ControleDeProblemas\\Entidade\\Entidade.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Documents\\Exercicios-1\\ControleDeProblemas\\ControleDeProblemas\\Entidade\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\Logatti\\Sexta\\ControleDeProblemas\\ControleDeProblemas\\Entidade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
